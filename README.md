@@ -11,6 +11,11 @@
 <a href="https://linkedin.com/in/Pavan-Kumar-Dirisala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
+# 🏆 Achievements
+- **2nd Place** at AiroThon 2025 – Agentic AI Hackathon, Gurugram.  
+- Built **FinBot Connect**, a RAG-based BFSI chatbot with personalized banking queries & document Q&A.
+
+  
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -45,9 +50,6 @@
 **Bachelor of Technology** – KL University, Computer Science and Engineering (Expected 2026)  
 **Intermediate** – Sri Chaitanya Junior College (2019 – 2021)  
 
-# 🏆 Achievements
-- **2nd Place** at AiroThon 2025 – Agentic AI Hackathon, Gurugram.  
-- Built **FinBot Connect**, a RAG-based BFSI chatbot with personalized banking queries & document Q&A.  
 
 # 📜 Certifications
 - Essentials Automation Certification – 2024  
