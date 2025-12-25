@@ -9,6 +9,9 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/Pavan-Kumar-Dirisala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+- 📫 How to reach me: **2200030495cseh@gmail.com**  
+- 🌐 Portfolio: <a href="https://pavan-kumar-dirisala.github.io/Portfolio/">**https://pavan-kumar-dirisala.github.io/Portfolio/**
+
 </p>
 
 # 🏆 Achievements
