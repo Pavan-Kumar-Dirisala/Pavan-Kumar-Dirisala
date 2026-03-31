@@ -19,7 +19,19 @@
 - **2nd Place** at AiroThon 2025 – Agentic AI Hackathon, Gurugram.  
 - Built **FinBot Connect**, a RAG-based BFSI chatbot with personalized banking queries & document Q&A.
 
-  
+# 📄 Publications
+
+- **FinBot Connect: A Secure Retrieval-Augmented Generation Framework for Banking Assistants**  
+  *SSRN (Elsevier), Feb 2026*  
+  **Authors:** Pavan Kumar Dirisala, Sai Ranga Madhushka Tummala  
+
+  - Designed a **secure Retrieval-Augmented Generation (RAG)** architecture for BFSI applications  
+  - Implemented **permission-aware semantic retrieval with vector databases**  
+  - Reduced hallucinations and improved contextual accuracy over rule-based & LLM-only systems  
+  - Built modular pipeline with authentication, retrieval, and LLM response generation  
+
+  🔗 https://ssrn.com/abstract=6219653
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
