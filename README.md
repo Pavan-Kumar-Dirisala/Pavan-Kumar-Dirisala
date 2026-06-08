@@ -49,6 +49,8 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-%23FF6B6B?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3A?style=for-the-badge&logo=langchain&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-%234A90E2?style=for-the-badge)
 ![Vector DB](https://img.shields.io/badge/Vector%20DB-%234B0082?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-%2300CED1?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-%23FFA500?style=for-the-badge)
