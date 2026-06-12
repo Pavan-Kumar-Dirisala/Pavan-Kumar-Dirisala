@@ -154,7 +154,7 @@
     </td>
   </tr>
 </table>
-## 🎓 Education & Credentials
+## 🎓 Education & Credentials**
 
 <table width="100%">
   <tr>
