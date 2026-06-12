@@ -139,7 +139,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Pavan-Kumar-Dirisala&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Pavan-Kumar-Dirisala&show_icons=true&theme=dracula&hide_border=false" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
       <img src="https://streak-stats.demolab.com/?user=Pavan-Kumar-Dirisala&theme=dracula&hide_border=false" width="100%" alt="GitHub Streak" />
