@@ -150,14 +150,10 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Kumar-Dirisala&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" alt="Top Languages" />
     </td>
     <td width="50%" align="center">
-      <!-- Fixed Mirror for GitHub Profile Trophy -->
       <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Pavan-Kumar-Dirisala&theme=dracula&no-frame=false&hide_border=false&margin-w=4" width="100%" alt="Trophies" />
     </td>
   </tr>
 </table>
-
----
-
 ## 🎓 Education & Credentials
 
 <table width="100%">
