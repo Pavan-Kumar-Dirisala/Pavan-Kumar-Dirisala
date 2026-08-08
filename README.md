@@ -10,8 +10,7 @@
 
 <td align="center" style="padding:50px 20px;border:2px solid #30363d;border-radius:12px;">
 
-<code style="color:#58a6ff;font-size:14px;letter-spacing:4px;">
-// AI ENGINEERING • AGENTIC AI • GENERATIVE AI
+<code style="color:#58a6ff;font-size:14px;letter-spacing:4px;">// AI ENGINEERING • AGENTIC AI • GENERATIVE AI
 </code>
 
 <h1 align="center">
@@ -262,22 +261,18 @@ Artificial Intelligence & Intelligent Process Automation
 <img src="https://img.shields.io/badge/Cloud_Deployment-2496ED?style=for-the-badge"/>
 
 </p>
+
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pavan-Kumar-Dirisala&show_icons=true&theme=tokyonight" width="48%"/>
-
-<img src="https://streak-stats.demolab.com/?user=Pavan-Kumar-Dirisala&theme=tokyonight" width="48%"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pavan-Kumar-Dirisala&theme=tokyonight" width="95%"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Kumar-Dirisala&layout=compact&theme=tokyonight" width="48%"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pavan-Kumar-Dirisala&theme=tokyonight" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pavan-Kumar-Dirisala&theme=tokyonight" width="45%"/>
 </p>
 
 ---
